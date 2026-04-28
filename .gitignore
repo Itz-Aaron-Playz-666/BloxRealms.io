@@ -1,0 +1,19 @@
+# Node / pnpm
+node_modules/
+.pnpm-store/
+*.tsbuildinfo
+dist/
+out/
+
+# OS / Mobile / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+.env.local
+
+# Logs / Cache
+*.log
+.cache/
+.vite/
